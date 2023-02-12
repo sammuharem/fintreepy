@@ -1,0 +1,18 @@
+Change Log
+===
+
+0.0.4  (12/03/2023)
+---
+Bug Fixes
+
+0.0.3  (12/03/2023)
+---
+Included Additional Inputs
+
+0.0.2  (12/02/2023)
+---
+Fixed the __init__ File
+
+0.0.1  (11/02/2023)
+---
+First Release
